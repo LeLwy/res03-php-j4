@@ -1,0 +1,2 @@
+- profile_id -> profile
+- skill_id -> skills
