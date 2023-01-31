@@ -1,0 +1,5 @@
+- id
+- category -> picture_categories
+- name
+- description
+- url

@@ -1,0 +1,13 @@
+- id
+- firstname
+- lastname
+- address
+- birthdate
+- picture -> pictures
+- title
+- description
+- mobility
+- experience -> experiences
+- skills -> technical_skills
+- achieved_projects -> projects
+- current_projects -> projects

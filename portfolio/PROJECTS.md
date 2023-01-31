@@ -1,0 +1,6 @@
+- id
+- category -> project_categories
+- title
+- picture -> pictures
+- content
+- status

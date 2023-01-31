@@ -1,0 +1,6 @@
+- id
+- begin_date
+- end_date
+- name
+- description
+- location
